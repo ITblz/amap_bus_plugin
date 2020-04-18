@@ -1,5 +1,5 @@
 name: amapbus
-description: 基于高德地图sdk的公交查询插件
+description: a flutter plugin about amap of bus
 version: 0.0.1
 author: ITblz <blzgle20190207@gmail.com>
 homepage: https://github.com/ITblz/amap_bus_plugin.git
